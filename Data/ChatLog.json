@@ -1,0 +1,130 @@
+[
+    {
+        "role": "user",
+        "content": " Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Satish! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": " Can I know what is the day today"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Tuesday."
+    },
+    {
+        "role": "user",
+        "content": " does year 2025 is a leap year"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, 2025 is not a leap year."
+    },
+    {
+        "role": "user",
+        "content": " why"
+    },
+    {
+        "role": "assistant",
+        "content": "2025 is not a leap year because it is not divisible by 4. Leap years occur every 4 years, and 2025 does not meet this criteria."
+    },
+    {
+        "role": "user",
+        "content": " oh that's really great"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm glad I could help!"
+    },
+    {
+        "role": "user",
+        "content": " Can I know where is the champions trophy 2025 held"
+    },
+    {
+        "role": "assistant",
+        "content": "The ICC Champions Trophy 2025 is scheduled to be held in Pakistan."
+    },
+    {
+        "role": "user",
+        "content": " and whose match was today"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not aware of any specific match scheduled for today, March 4, 2025. If you're looking for information about a particular tournament or league, please let me know and I'll do my best to help!"
+    },
+    {
+        "role": "user",
+        "content": " Champions trophy 2025 semi final match"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have real-time information about the Champions Trophy 2025 semi-final match, as it has not been scheduled or played yet."
+    },
+    {
+        "role": "user",
+        "content": " Champions trophy 2025 group A team"
+    },
+    {
+        "role": "assistant",
+        "content": "The teams in Group A of the ICC Champions Trophy 2025 are Pakistan, India, Australia, and New Zealand."
+    },
+    {
+        "role": "user",
+        "content": " thanks"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome!"
+    },
+    {
+        "role": "user",
+        "content": " bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye Satish! It was nice chatting with you."
+    },
+    {
+        "role": "user",
+        "content": " what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Ray."
+    },
+    {
+        "role": "user",
+        "content": " that's cool"
+    },
+    {
+        "role": "assistant",
+        "content": "Thanks!"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Bye Satish!"
+    },
+    {
+        "role": "user",
+        "content": "cls"
+    },
+    {
+        "role": "assistant",
+        "content": "CLS can refer to several things. Based on the search results, CLS can be:\n\n1. CLS Group, a specialized financial market infrastructure group whose main entity is the New York-based CLS Bank.\n2. Cumulative Layout Shift (CLS), a measure of the largest burst of layout shift scores for every unexpected layout shift that occurs during the entire lifecycle of a page.\n3. CLS Private Limited, a company established in July 2019 to provide specialized analytical and research services for pharma and related products.\n\nWhich CLS are you referring to?"
+    },
+    {
+        "role": "user",
+        "content": "scorecard of ind vs pak champions trophy 2025"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, here is the scorecard of IND vs PAK Champions Trophy 2025:\n\nPakistan innings:\nImam-ul-Haq - run out (Axar) - 10\nBabar Azam - c Rahul b Hardik Pandya - 23\n\nPlease note that this is the available information from the search results. If you need more details, let me know!"
+    }
+]
