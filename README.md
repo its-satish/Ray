@@ -1,2 +1,2 @@
-# Ray
+# Ray - AI Assistant
  
