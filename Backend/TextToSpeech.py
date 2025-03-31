@@ -8,6 +8,7 @@ import os #Import os for file path handling
 from dotenv import dotenv_values # Import dotenv for reading environment variables from a .env file
 # Load environment variables from a .env file
 env_vars=dotenv_values(".env")
+
 AssistantVoice = env_vars.get("AssistantVoice") # Get the AssistantVoice from the environment variables I
 # Asynchronous function to convert text to an audio file
 async def TextToAudioFile(text) -> None:
