@@ -1,0 +1,200 @@
+Satish :  ok please main the integrity and respect the sequence
+Satish :  I amd training you for access 3.5 software
+Ray : I'm being trained to assist with Access 3.5 software.
+Satish :  default login for access 3.5 is essl
+Ray : The default login for Access 3.5 is indeed "essl".
+Satish :  i have 5 main module name personnel, device , access control, reports, system
+Ray : The 5 main modules in Access 3.5 are: Personnel, Device, Access Control, Reports, and System.
+Satish :  when i click on personnel, a side nav opens and personnel is selected which is placed at second, at first its department and at third its issue card... these are sub modules
+Ray : When you click on the Personnel module, a side navigation menu appears, with Personnel selected as the second option. The first option is Department, and the third option is Issue Card. These are sub-modules within the Personnel module.
+Satish :  device have 3 sub modules named area, device, search access control, by default it is selected on device
+Ray : The Device module has 3 sub-modules: Area, Device, and Search Access Control. By default, it opens on the Device sub-module.
+Satish :  under access control i have two modules access and advance access
+Ray : Under the Access Control module, there are two sub-modules: Access and Advance Access.
+Satish :  under access sub module i have time zones, holidays,door settings,access level, antipassback,personnel group, multi card opeing, real time monitoring, map
+Ray : Under the Access sub-module, there are 8 options: Time Zones, Holidays, Door Settings, Access Level, Anti-Passback, Personnel Group, Real Time Monitoring, and Map.
+Satish :  under advance access i have weigand format,interlock, linkage, first card normal open,reader setting, auxilary i/o setting 
+Ray : Under the Advance Access sub-module, there are 7 options: Weigand Format, Interlock, Linkage, First Card Normal Open, Reader Setting, and Auxiliary I/O Setting.
+Satish :  when i click on access control, by default real time monitoring opens and shows the real time door access data
+Ray : When you click on the Access Control module, by default, it opens on the Real Time Monitoring page, displaying real-time door access data.
+Satish :  under reports module i have sub module reports, under which i have event today, event last 3 days,event this week, event last week, exception events and custom reports
+Ray : Under the Reports module, there's a sub-module also called Reports, which contains 6 report types: Event Today, 2) Event Last 3 Days, 3) Event This Week, 4) Event Last Week, 5) Exception Events, and 6) Custom Reports.
+Satish :  the sub module name for reports is report
+Ray : Under the Reports module, there's a sub-module named "Report", which contains 6 report types: Event Today, Event Last 3 Days, Event This Week, Event Last Week, Exception Events, and Custom Reports.
+Satish :  by default events today opens up when i click on reports
+Ray : When you click on the Reports module, by default, it opens on the "Event Today" report.
+Satish :  when i click on system i have two sub module, database, system
+Ray : When you click on the System module, it has two sub-modules: Database and System.
+Satish :  under database i have database connection, backup database, restore database,set daabase backup path, compress access database
+Ray : Under the Database sub-module, there are 5 options: Database Connection, Backup Database, Restore Database, Set Database Backup Path, and Compress Access Database.
+Satish :  ok now under the system i have role, user , change , password, system inintialisation,system parameter setting, navigation, select language, exit
+Ray : Under the System sub-module, there are 9 options: Role, Satish , Change Password, System Initialization, System Parameter Setting, Navigation, Select Language, and Exit.
+Satish :  now system parameter setting is with the system not under system initialization
+Ray : Under the System sub-module, there are 9 options: Role, Satish , Change Password, System Initialization, System Parameter Setting, Navigation, Select Language, and Exit.
+Satish :  can you show the stuctural way of this module
+Ray : Here is the structural representation of the Access 3.5:
+**Main Modules**
+1. **Personnel**
+	* **Department**
+	* **Personnel**
+	* **Issue Card**
+2. **Device**
+	* **Area**
+	* **Device**
+	* **Search Access Control**
+3. **Access Control**
+	* **Access**
+		+ **Time Zones**
+		+ **Holidays**
+		+ **Door Settings**
+		+ **Access Level**
+		+ **Anti-Passback**
+		+ **Personnel Group**
+		+ **Multi Card Opening**
+		+ **Real Time Monitoring**
+		+ **Map**
+	* **Advance Access**
+		+ **Weigand Format**
+		+ **Interlock**
+		+ **Linkage**
+		+ **First Card Normal Open**
+		+ **Reader Setting**
+		+ **Auxiliary I/O Setting**
+4. **Reports**
+	* **Report**
+		+ **Event Today**
+		+ **Last 3 Days**
+		+ **Event This Week**
+		+ **Event Last Week**
+		+ **Exception Events**
+		+ **Custom Reports**
+5. **System**
+	* **Database**
+		+ **Database Connection**
+		+ **Backup Database**
+		+ **Restore Database**
+		+ **Set Database Backup Path**
+		+ **Compress Access Database**
+	* **System**
+		+ **Role**
+		+ **Satish **
+		+ **Change Password**
+		+ **System Initialization**
+		+ **System Parameter Setting**
+		+ **Navigation**
+		+ **Select Language**
+		+ **Exit**
+Let me know if you need anything else!
+Satish :  keep this stucture safe.. this is final
+Ray : I've safely stored the final structure of the Access 3.5 software modules and sub-modules. I'll keep it secure for future reference. If you need to access or modify it, just let me know!
+Satish :  where can i find access level
+Ray : You can find the "Access Level" under the "Access Control" module, specifically within the "Access" sub-module.
+Satish :  great, where can i find role
+Ray : You can find the "Role" under the "System" module, specifically within the "System" sub-module.
+Satish :  where can i find issued card
+Ray : You can find the "Issue Card" under the "Personnel" module.
+Satish :  great
+Ray : You're welcome, Satish! If you have any more questions or need help with Access 3.5, feel free to ask!
+Satish :  where can I set the antipassback
+Ray : You can set the "Anti-Passback" under the "Access Control" module, specifically within the "Access" sub-module.
+Satish :  how to see daily reports
+Ray : You can see the daily reports under the "Reports" module, specifically within the "Report" sub-module, and then select "Event Today".
+Satish : Question: Supported Databases for eSSL Access 3.5 software ?
+Satish : Answer: Supported Database Type: MS Access / MS SQL (SQL 2008 R2 or above)
+Satish : Question: What is the Default Satish  Name and Password of eSSL Access 3.5 software ?
+Satish : Answer: The Default Satish  Name and Password of Application is 'essl' 'essl'.
+Satish : Question: How to Change the Default Password In Application ?
+Satish : Answer: Login Application with Default Satish name and Password -> System -> Change password -> Provide the Old Password and New Password need to be Changed.
+Satish : Question: What is the Default IP Address of Controller in Application ?
+Satish : Answer: Default Address of All Controller are 192.168.1.201
+Satish : Question: How to find Controller Details in Application ?
+Satish : Answer: Device -> Search Access Control -> Search -> Controller IP Address, MAC Address, Subnet Mask, Gateway, Serial Number, Device Type. Whether controller has been added or not, all details will be reflected.
+Satish : Question: How to Modify Controller IP Address if Controller is Online in Application ?
+Satish : Answer: Device -> Select the device you want to modify -> Right corner More option -> Modify IP Address -> Provide new IP Address, Subnet Mask, and Gateway.
+Satish : Question: How Controllers will be Communicating through Application ?
+Satish : Answer: Controllers communicate through TCP/IP (LAN) communication.
+Satish : Question: What is the Communication Port For Normal series (C3-100B, C3-220B, C3-400B, INBIO-160B, INBIO-260B, INBIO-460B) controllers in Application ?
+Satish : Answer: Communication Port for Controllers is 4370.
+Satish : Question: How to Add controllers in Application ?
+Satish : Answer: Device -> Search Access Control -> Search -> All the controllers in your network will be shown (if your device is connected in LAN properly and pinging, then it will come) -> Modify controller IP to match your network -> Add Device -> Device Name -> Select door mode: 1 door / 2 door / 4 door -> Select the Area Name -> OK.
+Satish : Question: How to Convert 4 Door Controller to 2 Door in Application ?
+Satish : Answer: Device -> Search Access Control -> Search -> All controllers will be shown -> Add Device -> Device Name -> Select 4 door mode -> Switch to Two-door to Two-way -> Enable -> Select Area Name -> OK.
+Satish : Question: How to Create Multiple Area Names to segregate controllers in application ?
+Satish : Answer: Device -> Area -> Add -> Area Name, Area Number -> OK.
+Satish : Question: How to Allocate Controllers to the defined Areas in Application ?
+Satish : Answer: Device -> Search Access Control -> Search -> All controllers will be shown -> Add Device -> Device Name -> Select door mode -> Area -> Select the area to assign the controller -> OK.
+Satish : Question: How to Add Controllers Manually in Application ?
+Satish : Answer: Device -> Add -> Next -> IP Address of controller -> Select door mode -> Name the device -> Prompt to clear data: select Yes -> Finish.
+Satish : Question: While Searching the Controller if Controller is not Shown in the Network what need to be Done ?
+Satish : Answer: Cross-verify controller series and PC network series. If still not working, directly connect controller to the system and check.
+Satish : Question: How to Fetch Personnel Data from Controller in Application ?
+Satish : Answer: Device -> Select the device -> Get Personnel Data from Device -> Get.
+Satish : Question: How to Fetch All Transactions from Controller in Application ?
+Satish : Answer: Device -> Select the device -> Get Logs -> Get All Logs -> Get.
+Satish : Question: How to do Manual Synchronization to Controller in Application ?
+Satish : Answer: Device -> Select the device you want to synchronize -> Sync All Data to Device -> Synchronize -> Return.
+Satish : Question: What is the Purpose of Manual Synchronization in Application ?
+Satish : Answer: If data was uploaded to controller but is not being transferred, go to Device -> Select the device -> Synchronize data to device -> Synchronize -> Return.
+Satish : Question: When Synchronization Option Needs to be Done in Application ?
+Satish : Answer: If data was already transferred to controller but cards are not accessing, then manual synchronization is needed.
+Satish : Question: When Synchronization Option Should Not be Used in Application ?
+Satish : Answer: If it is a new installation, manual synchronization should not be used as it may erase controller data.
+Satish : Question: What to do if Controller Time Mismatch with PC Timings in Application ?
+Satish : Answer: Device -> Select the device -> More -> Synchronize time.
+Satish : Question: How to Clear Transaction logs from Controller in Application ?
+Satish : Answer: Device -> Select the device -> Get Logs -> Clear logs after download -> Get -> Exit.
+Satish : Question: Can We Add eSSL Access 8002 / eSSL Access 8004 Controllers in eSSL Access 3.5 Software ?
+Satish : Answer: No (eSSL New Access Control Software).
+Satish : Question: Can We Add Pro Series Controllers (C3-100Pro, C3-200Pro, C3-400Pro, INBIO-260Pro, INBIO-460Pro) in eSSL Access 3.5 Software ?
+Satish : Answer: No (Use eSSL Biosecurity V5000).
+Satish : Question: Standalone Access devices can be Added to eSSL Access 3.5 Software ?
+Satish : Answer: No (Use eSSL Etimetracklite Application).
+Satish : Question: How to Register Cards to the Satish  in Application ?
+Satish : Answer: Personnel -> Add -> Fill required details (Personnel ID - Integers only, First & Last Name - Alphabets only) -> Card Number -> Select icon -> Choose Controller -> Flash card on reader -> Card number will reflect -> Select Department -> Save and Continue / OK.
+Satish : Question: How to Register Fingerprint to the Satish  in Application ?
+Satish : Answer: Personnel -> Add -> Fill required details -> Install fingerprint driver -> Fingerprint Reg -> Place fingerprint thrice -> OK -> Select Department -> Save and Continue / OK.
+Satish : Question: How to Register UHF Tags to the Satish  in Application ?
+Satish : Answer: Personnel -> Add -> Fill required details -> Card Number -> Select icon -> Choose Controller -> Show UHF Tag on reader -> Card number will reflect -> Select Department -> Save and Continue / OK.
+Satish : Question: Can We Register Satish s Using Alphanumeric Satish  ID in Application ?
+Satish : Answer: No, only integers are accepted in normal controllers.
+Satish : Question: Can We Register Satish s Using Alphanumeric Data in First Name / Last Name ?
+Satish : Answer: No, only alphabets are accepted in normal controllers.
+Satish : Question: How to Set Validity Time Period Access for Satish s in Application ?
+Satish : Answer: Personnel -> Add/Edit Satish  -> Access Levels -> Set Valid Period -> Enable -> Define Start Date and End Date -> OK.
+Satish : Question: How to Register Card and Fingerprint to the Satish  in Application ?
+Satish : Answer: Personnel -> Add -> Fill details -> Card Number -> Select icon -> Flash card -> Fingerprint Reg -> Place fingerprint -> OK -> Select Department -> Save and Continue / OK.
+Satish : Question: How to Register Card / Fingerprint in Application ?
+Satish : Answer: Personnel -> Add -> Fill details -> Card Number (use Biometric Device ID) -> Select Department -> Save and Continue / OK.
+Satish : Question: What are the Fingerprint Enrollers used to Register the Fingerprints in eSSL Access 3.5 Software ?
+Satish : Answer: eSSL 5000 Fingerprint Enroller, eSSL 9500 Fingerprint Enroller, eSSL 7500 Fingerprint Enroller.
+Satish : Question: From Where to Download Fingerprint Enrollers ?
+Satish : Answer: Any browser search esslsecurity.com -> Downloads -> Drivers.
+Satish : Question: Can We Assign Multiple Cards to Single Satish  in Application ? 
+Satish : Answer: No , This Option is not Avaialbe in eSSL Access 3.5 Software 
+Satish : Question: What all types of Card Formats can be Registered in Application ?
+Satish : Answer: Proximty, Mifare, UHF Card ( TAG 1 ) , HidIprox, HidIclass ( need to send card with reader for testing purpose to Head Office).
+Satish : Question: What all types of Tags can be Registered in Application ?
+Satish : Answer: UHF1-Tag4 , UHF1-TAG5, FastTags,Third Party Tags ( With proper Data Format).
+Satish : Question: How to Register Card through USB Enroller in Application ?
+Satish : Answer: Personnel -> Add -> Fill the required details example like : Personnel ID ( Only Integers ), First Name - Last Name ( Only Alphabets ) , so on ->select Mouse on  Card Number place the card on the USB Device -> Card number will be reflected -> Select Department -> Save and Contniue to add further cards or else select OK.
+Satish : Question: Which is the USB Device used to Enroll Cards in eSSL Access 3.5 Software ?
+Satish : Answer: CR-10E ( For Proximity Cards ),  CR-10M ( For Mifare Cards )
+Satish : Question: Can I Search the Satish  Details by using Personnel ID /First Name / Card Number so on in Application ?
+Satish : Answer: Yes -> Personnel -> Search ->  Personnel ID / First Name / Card Number / Department Number - Name -> Ok.
+Satish : Question: How to Change Department to Group of Satish s in Application ? 
+Satish : Answer: Personnel -> Select the Group of Satish s -> Adjust Department -> Select Department -> Ok -> Ok.
+Satish : Question: Can we Import / Export Satish s in Application ?
+Satish : Answer: Yes in Personnel Module there is option to Import and Export Satish  Details.
+Satish : Input String Error While Importing the Excel Sheet in Application ? This Error Occurs because of the fields Mismatch in the Excel File trying to Import in the Application .
+Satish : Which File Format can we Import / Export Satish s Record in Application ? Only Excel Format .
+Satish : While Import / Export the file what all things need to be checked in Application ? The Fields in the File should match with Application Fields  for Proper Data.
+Satish : Can we Delete the Default Department in Application ?No, We cant Delete the Default Department.
+Satish : How to Create Departments in Application ?Personnel -> Department -> Add -> Department Number , Department Name, Parent Department ( Default Company Name Can be Changed ) -> Ok. 
+Satish : Can we Import / Export Departments in Application ?Yes in Personnel Module there is option to Import and Export users.
+Satish : How to View Issued Card Detials in Application ?  Personnel -> Issue Card -> Can view the deails of card being issued. This is the time when user is been created
+Satish : How to Register More Number of cards Once At a Time in Application ? Personnel -> Add - > Privide ID , Name, Department Name -> Save and Continue ( Continue same process for how many cards yow need to assign ) -> Issue Card -> Batch Issue Card -> Device Enrolement ( Select the Controller ) -> Start Personnel ID -> End Personnel ID -> List Personnel ( List out of Satish s will be shown ) -> Start to Read ( Start Reading cards one by one ) -> Registered Cards will shift from Left to Right -> Ok -> Personnel ( All Registered Cards will be shown ). 
+Satish : How to Create Time Zone in Application ?Access Control -> Access -> Time Zones -> Add -> Time Zone Name , Define Start Time and End Time , Select to which all days the Condition should be applied even to the Holidays  -> Ok ->  Pop up notification of Synchronization -> Synch now -> Return.
+Satish : Can We Assign Multiple Timimngs to 1 Time Zone instead of Creating Multiple TimeZones in  Application ? Yes , Can Define Multiple Timimngs to Sinlge Time Zone Itself -> Access Control -> Access -> Time Zones -> Add -> Time Zone Name , Define Start Time and End Time ,  Again Drag and Define 1 more Start Time and End Time, 1 More also can be Created , Select to which all days the Condition should be applied even to the Holidays  -> Ok ->  Pop up notification of Synchronization -> Synch now -> Return.
+Satish : How Many Multiple Timings can be Assigned to 1 Particular Timezone in Application ? in 1 Time Zone Creation Can Create till 3 Different Timings.
+Satish :  usb device to enroll card
+Ray : CR-10E (For Proximity Cards), CR-10M (For Mifare Cards)

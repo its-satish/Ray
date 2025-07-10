@@ -1,130 +1,682 @@
 [
     {
         "role": "user",
-        "content": " Hello"
-    },
-    {
-        "role": "assistant",
-        "content": "Hello Satish! It's nice to meet you. How can I assist you today?"
+        "content": " ok please main the integrity and respect the sequence"
     },
     {
         "role": "user",
-        "content": " Can I know what is the day today"
+        "content": " I amd training you for access 3.5 software"
     },
     {
         "role": "assistant",
-        "content": "Today is Tuesday."
+        "content": "I'm being trained to assist with Access 3.5 software."
     },
     {
         "role": "user",
-        "content": " does year 2025 is a leap year"
+        "content": " default login for access 3.5 is essl"
     },
     {
         "role": "assistant",
-        "content": "Yes, 2025 is not a leap year."
+        "content": "The default login for Access 3.5 is indeed \"essl\"."
     },
     {
         "role": "user",
-        "content": " why"
+        "content": " i have 5 main module name personnel, device , access control, reports, system"
     },
     {
         "role": "assistant",
-        "content": "2025 is not a leap year because it is not divisible by 4. Leap years occur every 4 years, and 2025 does not meet this criteria."
+        "content": "The 5 main modules in Access 3.5 are: Personnel, Device, Access Control, Reports, and System."
     },
     {
         "role": "user",
-        "content": " oh that's really great"
+        "content": " when i click on personnel, a side nav opens and personnel is selected which is placed at second, at first its department and at third its issue card... these are sub modules"
     },
     {
         "role": "assistant",
-        "content": "I'm glad I could help!"
+        "content": "When you click on the Personnel module, a side navigation menu appears, with Personnel selected as the second option. The first option is Department, and the third option is Issue Card. These are sub-modules within the Personnel module."
     },
     {
         "role": "user",
-        "content": " Can I know where is the champions trophy 2025 held"
+        "content": " device have 3 sub modules named area, device, search access control, by default it is selected on device"
     },
     {
         "role": "assistant",
-        "content": "The ICC Champions Trophy 2025 is scheduled to be held in Pakistan."
+        "content": "The Device module has 3 sub-modules: Area, Device, and Search Access Control. By default, it opens on the Device sub-module."
     },
     {
         "role": "user",
-        "content": " and whose match was today"
+        "content": " under access control i have two modules access and advance access"
     },
     {
         "role": "assistant",
-        "content": "I'm not aware of any specific match scheduled for today, March 4, 2025. If you're looking for information about a particular tournament or league, please let me know and I'll do my best to help!"
+        "content": "Under the Access Control module, there are two sub-modules: Access and Advance Access."
     },
     {
         "role": "user",
-        "content": " Champions trophy 2025 semi final match"
+        "content": " under access sub module i have time zones, holidays,door settings,access level, antipassback,personnel group, multi card opeing, real time monitoring, map"
     },
     {
         "role": "assistant",
-        "content": "I don't have real-time information about the Champions Trophy 2025 semi-final match, as it has not been scheduled or played yet."
+        "content": "Under the Access sub-module, there are 8 options: Time Zones, Holidays, Door Settings, Access Level, Anti-Passback, Personnel Group, Real Time Monitoring, and Map."
     },
     {
         "role": "user",
-        "content": " Champions trophy 2025 group A team"
+        "content": " under advance access i have weigand format,interlock, linkage, first card normal open,reader setting, auxilary i/o setting "
     },
     {
         "role": "assistant",
-        "content": "The teams in Group A of the ICC Champions Trophy 2025 are Pakistan, India, Australia, and New Zealand."
+        "content": "Under the Advance Access sub-module, there are 7 options: Weigand Format, Interlock, Linkage, First Card Normal Open, Reader Setting, and Auxiliary I/O Setting."
     },
     {
         "role": "user",
-        "content": " thanks"
+        "content": " when i click on access control, by default real time monitoring opens and shows the real time door access data"
     },
     {
         "role": "assistant",
-        "content": "You're welcome!"
+        "content": "When you click on the Access Control module, by default, it opens on the Real Time Monitoring page, displaying real-time door access data."
     },
     {
         "role": "user",
-        "content": " bye"
+        "content": " under reports module i have sub module reports, under which i have event today, event last 3 days,event this week, event last week, exception events and custom reports"
     },
     {
         "role": "assistant",
-        "content": "Goodbye Satish! It was nice chatting with you."
+        "content": "Under the Reports module, there's a sub-module also called Reports, which contains 6 report types: Event Today, 2) Event Last 3 Days, 3) Event This Week, 4) Event Last Week, 5) Exception Events, and 6) Custom Reports."
     },
     {
         "role": "user",
-        "content": " what is your name"
+        "content": " the sub module name for reports is report"
     },
     {
         "role": "assistant",
-        "content": "My name is Ray."
+        "content": "Under the Reports module, there's a sub-module named \"Report\", which contains 6 report types: Event Today, Event Last 3 Days, Event This Week, Event Last Week, Exception Events, and Custom Reports."
     },
     {
         "role": "user",
-        "content": " that's cool"
+        "content": " by default events today opens up when i click on reports"
     },
     {
         "role": "assistant",
-        "content": "Thanks!"
+        "content": "When you click on the Reports module, by default, it opens on the \"Event Today\" report."
     },
     {
         "role": "user",
-        "content": "bye"
+        "content": " when i click on system i have two sub module, database, system"
     },
     {
         "role": "assistant",
-        "content": "Bye Satish!"
+        "content": "When you click on the System module, it has two sub-modules: Database and System."
     },
     {
         "role": "user",
-        "content": "cls"
+        "content": " under database i have database connection, backup database, restore database,set daabase backup path, compress access database"
     },
     {
         "role": "assistant",
-        "content": "CLS can refer to several things. Based on the search results, CLS can be:\n\n1. CLS Group, a specialized financial market infrastructure group whose main entity is the New York-based CLS Bank.\n2. Cumulative Layout Shift (CLS), a measure of the largest burst of layout shift scores for every unexpected layout shift that occurs during the entire lifecycle of a page.\n3. CLS Private Limited, a company established in July 2019 to provide specialized analytical and research services for pharma and related products.\n\nWhich CLS are you referring to?"
+        "content": "Under the Database sub-module, there are 5 options: Database Connection, Backup Database, Restore Database, Set Database Backup Path, and Compress Access Database."
     },
     {
         "role": "user",
-        "content": "scorecard of ind vs pak champions trophy 2025"
+        "content": " ok now under the system i have role, user , change , password, system inintialisation,system parameter setting, navigation, select language, exit"
     },
     {
         "role": "assistant",
-        "content": "According to the search results, here is the scorecard of IND vs PAK Champions Trophy 2025:\n\nPakistan innings:\nImam-ul-Haq - run out (Axar) - 10\nBabar Azam - c Rahul b Hardik Pandya - 23\n\nPlease note that this is the available information from the search results. If you need more details, let me know!"
+        "content": "Under the System sub-module, there are 9 options: Role, User, Change Password, System Initialization, System Parameter Setting, Navigation, Select Language, and Exit."
+    },
+    {
+        "role": "user",
+        "content": " now system parameter setting is with the system not under system initialization"
+    },
+    {
+        "role": "assistant",
+        "content": "Under the System sub-module, there are 9 options: Role, User, Change Password, System Initialization, System Parameter Setting, Navigation, Select Language, and Exit."
+    },
+    {
+        "role": "user",
+        "content": " can you show the stuctural way of this module"
+    },
+    {
+        "role": "assistant",
+        "content": "Here is the structural representation of the Access 3.5:\n\n**Main Modules**\n\n1. **Personnel**\n\t* **Department**\n\t* **Personnel**\n\t* **Issue Card**\n\n2. **Device**\n\t* **Area**\n\t* **Device**\n\t* **Search Access Control**\n\n3. **Access Control**\n\t* **Access**\n\t\t+ **Time Zones**\n\t\t+ **Holidays**\n\t\t+ **Door Settings**\n\t\t+ **Access Level**\n\t\t+ **Anti-Passback**\n\t\t+ **Personnel Group**\n\t\t+ **Multi Card Opening**\n\t\t+ **Real Time Monitoring**\n\t\t+ **Map**\n\t* **Advance Access**\n\t\t+ **Weigand Format**\n\t\t+ **Interlock**\n\t\t+ **Linkage**\n\t\t+ **First Card Normal Open**\n\t\t+ **Reader Setting**\n\t\t+ **Auxiliary I/O Setting**\n\n4. **Reports**\n\t* **Report**\n\t\t+ **Event Today**\n\t\t+ **Last 3 Days**\n\t\t+ **Event This Week**\n\t\t+ **Event Last Week**\n\t\t+ **Exception Events**\n\t\t+ **Custom Reports**\n\n5. **System**\n\t* **Database**\n\t\t+ **Database Connection**\n\t\t+ **Backup Database**\n\t\t+ **Restore Database**\n\t\t+ **Set Database Backup Path**\n\t\t+ **Compress Access Database**\n\t* **System**\n\t\t+ **Role**\n\t\t+ **User**\n\t\t+ **Change Password**\n\t\t+ **System Initialization**\n\t\t+ **System Parameter Setting**\n\t\t+ **Navigation**\n\t\t+ **Select Language**\n\t\t+ **Exit**\n\nLet me know if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": " keep this stucture safe.. this is final"
+    },
+    {
+        "role": "assistant",
+        "content": "I've safely stored the final structure of the Access 3.5 software modules and sub-modules. I'll keep it secure for future reference. If you need to access or modify it, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": " where can i find access level"
+    },
+    {
+        "role": "assistant",
+        "content": "You can find the \"Access Level\" under the \"Access Control\" module, specifically within the \"Access\" sub-module."
+    },
+    {
+        "role": "user",
+        "content": " great, where can i find role"
+    },
+    {
+        "role": "assistant",
+        "content": "You can find the \"Role\" under the \"System\" module, specifically within the \"System\" sub-module."
+    },
+    {
+        "role": "user",
+        "content": " where can i find issued card"
+    },
+    {
+        "role": "assistant",
+        "content": "You can find the \"Issue Card\" under the \"Personnel\" module."
+    },
+    {
+        "role": "user",
+        "content": " great"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome, Satish! If you have any more questions or need help with Access 3.5, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": " where can I set the antipassback"
+    },
+    {
+        "role": "assistant",
+        "content": "You can set the \"Anti-Passback\" under the \"Access Control\" module, specifically within the \"Access\" sub-module."
+    },
+    {
+        "role": "user",
+        "content": " how to see daily reports"
+    },
+    {
+        "role": "assistant",
+        "content": "You can see the daily reports under the \"Reports\" module, specifically within the \"Report\" sub-module, and then select \"Event Today\"."
+    },
+    {
+        "role": "user",
+        "content": "Question: Supported Databases for eSSL Access 3.5 software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Supported Database Type: MS Access / MS SQL (SQL 2008 R2 or above)"
+    },
+    {
+        "role": "user",
+        "content": "Question: What is the Default User Name and Password of eSSL Access 3.5 software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: The Default User Name and Password of Application is 'essl' 'essl'."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Change the Default Password In Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Login Application with Default Username and Password -> System -> Change password -> Provide the Old Password and New Password need to be Changed."
+    },
+    {
+        "role": "user",
+        "content": "Question: What is the Default IP Address of Controller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Default Address of All Controller are 192.168.1.201"
+    },
+    {
+        "role": "user",
+        "content": "Question: How to find Controller Details in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Search Access Control -> Search -> Controller IP Address, MAC Address, Subnet Mask, Gateway, Serial Number, Device Type. Whether controller has been added or not, all details will be reflected."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Modify Controller IP Address if Controller is Online in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device you want to modify -> Right corner More option -> Modify IP Address -> Provide new IP Address, Subnet Mask, and Gateway."
+    },
+    {
+        "role": "user",
+        "content": "Question: How Controllers will be Communicating through Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Controllers communicate through TCP/IP (LAN) communication."
+    },
+    {
+        "role": "user",
+        "content": "Question: What is the Communication Port For Normal series (C3-100B, C3-220B, C3-400B, INBIO-160B, INBIO-260B, INBIO-460B) controllers in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Communication Port for Controllers is 4370."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Add controllers in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Search Access Control -> Search -> All the controllers in your network will be shown (if your device is connected in LAN properly and pinging, then it will come) -> Modify controller IP to match your network -> Add Device -> Device Name -> Select door mode: 1 door / 2 door / 4 door -> Select the Area Name -> OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Convert 4 Door Controller to 2 Door in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Search Access Control -> Search -> All controllers will be shown -> Add Device -> Device Name -> Select 4 door mode -> Switch to Two-door to Two-way -> Enable -> Select Area Name -> OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Create Multiple Area Names to segregate controllers in application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Area -> Add -> Area Name, Area Number -> OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Allocate Controllers to the defined Areas in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Search Access Control -> Search -> All controllers will be shown -> Add Device -> Device Name -> Select door mode -> Area -> Select the area to assign the controller -> OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Add Controllers Manually in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Add -> Next -> IP Address of controller -> Select door mode -> Name the device -> Prompt to clear data: select Yes -> Finish."
+    },
+    {
+        "role": "user",
+        "content": "Question: While Searching the Controller if Controller is not Shown in the Network what need to be Done ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Cross-verify controller series and PC network series. If still not working, directly connect controller to the system and check."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Fetch Personnel Data from Controller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device -> Get Personnel Data from Device -> Get."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Fetch All Transactions from Controller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device -> Get Logs -> Get All Logs -> Get."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to do Manual Synchronization to Controller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device you want to synchronize -> Sync All Data to Device -> Synchronize -> Return."
+    },
+    {
+        "role": "user",
+        "content": "Question: What is the Purpose of Manual Synchronization in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: If data was uploaded to controller but is not being transferred, go to Device -> Select the device -> Synchronize data to device -> Synchronize -> Return."
+    },
+    {
+        "role": "user",
+        "content": "Question: When Synchronization Option Needs to be Done in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: If data was already transferred to controller but cards are not accessing, then manual synchronization is needed."
+    },
+    {
+        "role": "user",
+        "content": "Question: When Synchronization Option Should Not be Used in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: If it is a new installation, manual synchronization should not be used as it may erase controller data."
+    },
+    {
+        "role": "user",
+        "content": "Question: What to do if Controller Time Mismatch with PC Timings in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device -> More -> Synchronize time."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Clear Transaction logs from Controller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Device -> Select the device -> Get Logs -> Clear logs after download -> Get -> Exit."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can We Add eSSL Access 8002 / eSSL Access 8004 Controllers in eSSL Access 3.5 Software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: No (eSSL New Access Control Software)."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can We Add Pro Series Controllers (C3-100Pro, C3-200Pro, C3-400Pro, INBIO-260Pro, INBIO-460Pro) in eSSL Access 3.5 Software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: No (Use eSSL Biosecurity V5000)."
+    },
+    {
+        "role": "user",
+        "content": "Question: Standalone Access devices can be Added to eSSL Access 3.5 Software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: No (Use eSSL Etimetracklite Application)."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register Cards to the User in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill required details (Personnel ID - Integers only, First & Last Name - Alphabets only) -> Card Number -> Select icon -> Choose Controller -> Flash card on reader -> Card number will reflect -> Select Department -> Save and Continue / OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register Fingerprint to the User in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill required details -> Install fingerprint driver -> Fingerprint Reg -> Place fingerprint thrice -> OK -> Select Department -> Save and Continue / OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register UHF Tags to the User in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill required details -> Card Number -> Select icon -> Choose Controller -> Show UHF Tag on reader -> Card number will reflect -> Select Department -> Save and Continue / OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can We Register Users Using Alphanumeric User ID in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: No, only integers are accepted in normal controllers."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can We Register Users Using Alphanumeric Data in First Name / Last Name ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: No, only alphabets are accepted in normal controllers."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Set Validity Time Period Access for Users in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add/Edit User -> Access Levels -> Set Valid Period -> Enable -> Define Start Date and End Date -> OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register Card and Fingerprint to the User in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill details -> Card Number -> Select icon -> Flash card -> Fingerprint Reg -> Place fingerprint -> OK -> Select Department -> Save and Continue / OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register Card / Fingerprint in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill details -> Card Number (use Biometric Device ID) -> Select Department -> Save and Continue / OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: What are the Fingerprint Enrollers used to Register the Fingerprints in eSSL Access 3.5 Software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: eSSL 5000 Fingerprint Enroller, eSSL 9500 Fingerprint Enroller, eSSL 7500 Fingerprint Enroller."
+    },
+    {
+        "role": "user",
+        "content": "Question: From Where to Download Fingerprint Enrollers ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Any browser search esslsecurity.com -> Downloads -> Drivers."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can We Assign Multiple Cards to Single User in Application ? "
+    },
+    {
+        "role": "user",
+        "content": "Answer: No , This Option is not Avaialbe in eSSL Access 3.5 Software "
+    },
+    {
+        "role": "user",
+        "content": "Question: What all types of Card Formats can be Registered in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Proximty, Mifare, UHF Card ( TAG 1 ) , HidIprox, HidIclass ( need to send card with reader for testing purpose to Head Office)."
+    },
+    {
+        "role": "user",
+        "content": "Question: What all types of Tags can be Registered in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: UHF1-Tag4 , UHF1-TAG5, FastTags,Third Party Tags ( With proper Data Format)."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Register Card through USB Enroller in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Add -> Fill the required details example like : Personnel ID ( Only Integers ), First Name - Last Name ( Only Alphabets ) , so on ->select Mouse on  Card Number place the card on the USB Device -> Card number will be reflected -> Select Department -> Save and Contniue to add further cards or else select OK."
+    },
+    {
+        "role": "user",
+        "content": "Question: Which is the USB Device used to Enroll Cards in eSSL Access 3.5 Software ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: CR-10E ( For Proximity Cards ),  CR-10M ( For Mifare Cards )"
+    },
+    {
+        "role": "user",
+        "content": "Question: Can I Search the User Details by using Personnel ID /First Name / Card Number so on in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Yes -> Personnel -> Search ->  Personnel ID / First Name / Card Number / Department Number - Name -> Ok."
+    },
+    {
+        "role": "user",
+        "content": "Question: How to Change Department to Group of Users in Application ? "
+    },
+    {
+        "role": "user",
+        "content": "Answer: Personnel -> Select the Group of Users -> Adjust Department -> Select Department -> Ok -> Ok."
+    },
+    {
+        "role": "user",
+        "content": "Question: Can we Import / Export Users in Application ?"
+    },
+    {
+        "role": "user",
+        "content": "Answer: Yes in Personnel Module there is option to Import and Export User Details."
+    },
+    {
+        "role": "user",
+        "content": "Input String Error While Importing the Excel Sheet in Application ? This Error Occurs because of the fields Mismatch in the Excel File trying to Import in the Application ."
+    },
+    {
+        "role": "user",
+        "content": "Which File Format can we Import / Export Users Record in Application ? Only Excel Format ."
+    },
+    {
+        "role": "user",
+        "content": "While Import / Export the file what all things need to be checked in Application ? The Fields in the File should match with Application Fields  for Proper Data."
+    },
+    {
+        "role": "user",
+        "content": "Can we Delete the Default Department in Application ?No, We cant Delete the Default Department."
+    },
+    {
+        "role": "user",
+        "content": "How to Create Departments in Application ?Personnel -> Department -> Add -> Department Number , Department Name, Parent Department ( Default Company Name Can be Changed ) -> Ok. "
+    },
+    {
+        "role": "user",
+        "content": "Can we Import / Export Departments in Application ?Yes in Personnel Module there is option to Import and Export users."
+    },
+    {
+        "role": "user",
+        "content": "How to View Issued Card Detials in Application ?  Personnel -> Issue Card -> Can view the deails of card being issued. This is the time when user is been created"
+    },
+    {
+        "role": "user",
+        "content": "How to Register More Number of cards Once At a Time in Application ? Personnel -> Add - > Privide ID , Name, Department Name -> Save and Continue ( Continue same process for how many cards yow need to assign ) -> Issue Card -> Batch Issue Card -> Device Enrolement ( Select the Controller ) -> Start Personnel ID -> End Personnel ID -> List Personnel ( List out of Users will be shown ) -> Start to Read ( Start Reading cards one by one ) -> Registered Cards will shift from Left to Right -> Ok -> Personnel ( All Registered Cards will be shown ). "
+    },
+    {
+        "role": "user",
+        "content": "How to Create Time Zone in Application ?Access Control -> Access -> Time Zones -> Add -> Time Zone Name , Define Start Time and End Time , Select to which all days the Condition should be applied even to the Holidays  -> Ok ->  Pop up notification of Synchronization -> Synch now -> Return."
+    },
+    {
+        "role": "user",
+        "content": "Can We Assign Multiple Timimngs to 1 Time Zone instead of Creating Multiple TimeZones in  Application ? Yes , Can Define Multiple Timimngs to Sinlge Time Zone Itself -> Access Control -> Access -> Time Zones -> Add -> Time Zone Name , Define Start Time and End Time ,  Again Drag and Define 1 more Start Time and End Time, 1 More also can be Created , Select to which all days the Condition should be applied even to the Holidays  -> Ok ->  Pop up notification of Synchronization -> Synch now -> Return."
+    },
+    {
+        "role": "user",
+        "content": "How Many Multiple Timings can be Assigned to 1 Particular Timezone in Application ? in 1 Time Zone Creation Can Create till 3 Different Timings."
+    },
+    {
+        "role": "user",
+        "content": " usb device to enroll card"
+    },
+    {
+        "role": "assistant",
+        "content": "CR-10E (For Proximity Cards), CR-10M (For Mifare Cards)"
+    },
+    {
+        "role": "user",
+        "content": "what is the day today"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "what is the day today"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "who is the US president"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not aware of the current US president as my knowledge cutoff is 2025."
+    },
+    {
+        "role": "user",
+        "content": "what is the day today"
+    },
+    {
+        "role": "assistant",
+        "content": "The day today is Monday."
+    },
+    {
+        "role": "user",
+        "content": "date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date today is 09-June-2025."
+    },
+    {
+        "role": "user",
+        "content": "indian vice president"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff in 2025, the Vice President of India is Jagdeep Dhankhar."
+    },
+    {
+        "role": "user",
+        "content": "who won ipl 2025"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about IPL 2025 as my knowledge cutoff is 2025."
+    },
+    {
+        "role": "user",
+        "content": "who won ipl 2024"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have information about IPL 2024 as my knowledge cutoff is before that."
+    },
+    {
+        "role": "user",
+        "content": "capital of andaman and nicobar islands"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of Andaman and Nicobar Islands is Port Blair."
+    },
+    {
+        "role": "user",
+        "content": "how many islands are there"
+    },
+    {
+        "role": "assistant",
+        "content": "There are 572 islands in the Andaman and Nicobar Islands union territory."
+    },
+    {
+        "role": "user",
+        "content": "what is antipassback"
+    },
+    {
+        "role": "assistant",
+        "content": "Anti-Passback is a feature in access control systems that prevents a user from re-entering a secured area without first exiting the area. This is done to prevent tailgating or piggybacking, where an unauthorized person follows an authorized person into a secured area."
     }
 ]

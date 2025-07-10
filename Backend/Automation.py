@@ -7,6 +7,7 @@ from rich import print #Import rich for styled console output.
 from groq import Groq
 import webbrowser
 import subprocess
+from AppOpener import run
 #Import Groq for AI chat functionalities.
 # Import webbrowser for opening URLS.
 # Import subprocess for interacting with the system.
@@ -43,7 +44,8 @@ def Content (Topic):
   def ContentWriterAI(prompt):
     messages.append({"role": "user", "content": f"{prompt}"}) # Add the user's prompt to messages.
     completion = client.chat.completions.create(
-      model="mixtral-8x7b-32768", # Specify the AI model.
+      #model="mixtral-8x7b-32768",  Specify the AI model.
+      model="llama3-8b-8192",
       messages=SystemChatBot + messages, # Include system instructions and chat history.
       max_tokens=2048, # Limit the maximum tokens in the response.
       temperature=0.7, # Adjust response randomness.
@@ -72,6 +74,7 @@ def Content (Topic):
   return True # Indicate success.
 #Content("An essay on Mahatma Gandhi") #Function to search for a topic on YouTube.
 # Function to search for a topic on YouTube.
+
 def YouTubeSearch(Topic):
   Url4Search = f"https://www.youtube.com/results?search_query={Topic}" # Construct the YouTube search URL.
   webbrowser.open(Url4Search) # Open the search URL in a web browser.
@@ -87,6 +90,16 @@ def OpenApp(app, sess=requests.session()):
     appopen(app, match_closest=True, output=True, throw_error=True) # Attempt to open the app.
     return True # Indicate success.
   except:
+    if app.lower() == "essl":
+      try:
+        #os.startfile("C:\eSSL\Access3.5\Access.exe")
+        #subprocess.Popen("C:\\Program Files\\Microsoft SQL Server Management Studio 19\\Common7\\IDE\\Ssms.exe")
+        #print("[✔] SQL Server Management Studio opened.")
+        subprocess.Popen("C:\\eSSL\\Access3.5\\Access.exe")
+        return True
+      except FileNotFoundError:
+        print("[❌] SSMS executable not found. Please check the path.")
+        return False
     # Nested function to extract Links from HTML content.
     def extract_links(html):
       if html is None:
@@ -111,6 +124,10 @@ def OpenApp(app, sess=requests.session()):
       webopen(link) # Open the link in a web browser.
     return True
 
+#run("LIST")  This will show all available apps on your system
+# OpenApp("essl access security system")
+# OpenApp("eTimeTrackLite")
+# OpenApp("Google Chrome")
 def CloseApp(app):
   if "chrome" in app:
     pass # Skip if the app is Chrome.

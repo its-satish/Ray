@@ -1,0 +1,28 @@
+09 june 2025
+updated the RTSE, CB, Database, Chat_processor using claude.
+
+Things to be done- 
+-update the UI
+-check the working of STT and TTS
+
+
+10 june 2025
+the updated UI is in the file JUN04UI.py
+now i am using the jun06ui.py
+
+
+12 june 2025
+it is taking my voice and getting the response.
+need to add a text to speech
+and double response is being generated
+
+
+19 June 2025
+RTSEWorking is the working code which use Google search but gets 429 error after few search, 
+now i'm trying with RTSE which uses Brave API
+
+07 Jul 2025
+it is working good.
+
+
+to activate venv  =   .\.venv\Scripts\Activate.ps1   # For PowerShell

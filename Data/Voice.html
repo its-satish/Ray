@@ -2,35 +2,70 @@
 <html lang="en">
 <head>
     <title>Speech Recognition</title>
+    <style>
+        #output {
+            min-height: 20px;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+        }
+    </style>
 </head>
-<body>
-    <button id="start" onclick="startRecognition()">Start Recognition</button>
-    <button id="end" onclick="stopRecognition()">Stop Recognition</button>
-    <p id="output"></p>
+<body data-lang="en-US">
+    <button id="start">Start Recognition</button>
+    <button id="end" disabled>Stop Recognition</button>
+    <div id="output">Status: Ready</div>
     <script>
         const output = document.getElementById('output');
+        const startBtn = document.getElementById('start');
+        const endBtn = document.getElementById('end');
         let recognition;
 
-        function startRecognition() {
-            recognition = new webkitSpeechRecognition() || new SpeechRecognition();
-            recognition.lang = '';
-            recognition.continuous = true;
+        startBtn.addEventListener('click', () => {
+            try {
+                recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+                recognition.lang = document.body.getAttribute('data-lang') || 'en-US';
+                recognition.continuous = true;
+                recognition.interimResults = true;
 
-            recognition.onresult = function(event) {
-                const transcript = event.results[event.results.length - 1][0].transcript;
-                output.textContent += transcript;
-            };
+                recognition.onstart = () => {
+                    output.textContent = 'Listening... Speak now';
+                    startBtn.disabled = true;
+                    endBtn.disabled = false;
+                };
 
-            recognition.onend = function() {
+                recognition.onresult = (event) => {
+                    const transcript = Array.from(event.results)
+                        .map(result => result[0].transcript)
+                        .join('');
+                    output.textContent = transcript;
+                };
+
+                recognition.onerror = (event) => {
+                    output.textContent = 'Error: ' + event.error;
+                    startBtn.disabled = false;
+                    endBtn.disabled = true;
+                };
+
+                recognition.onend = () => {
+                    if (startBtn.disabled) {
+                        recognition.start();  // Continue listening
+                    }
+                };
+
                 recognition.start();
-            };
-            recognition.start();
-        }
+            } catch (error) {
+                output.textContent = 'Error: ' + error.message;
+            }
+        });
 
-        function stopRecognition() {
-            recognition.stop();
-            output.innerHTML = "";
-        }
+        endBtn.addEventListener('click', () => {
+            if (recognition) {
+                recognition.stop();
+                startBtn.disabled = false;
+                endBtn.disabled = true;
+            }
+        });
     </script>
 </body>
 </html>
