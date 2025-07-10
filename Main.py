@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from Frontend.GUI2 import (
+=======
+from Frontend.GUI import (
+>>>>>>> 9c5cf6a2519cd1b02854e9a55419503dac015cb8
     GraphicalUserInterface,
     SetAssistantStatus,
     ShowTextToScreen,

@@ -1,4 +1,4 @@
-# Ray
+# Ray - AI Assistant
  
 #Dependencies issue
 1. remove the .venv file
